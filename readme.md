@@ -1,4 +1,4 @@
-# Three.js Journey
+# 3D Text Using Mat-Cap Textures
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
